@@ -1,0 +1,60 @@
+
+[
+    {
+      "title": "Botín Camel Jarman",
+      "description": "Plantilla a base de espuma que proporciona mayor comodidad y amortiguación, convirtiéndolo en un calzado moldeable dependiendo de la activad que se esté llevando a cabo",
+      "code": "1",
+      "status": true,
+      "stock": 4,
+      "category": "zapatos",
+      "price": "28000",
+      "thumbnails": "https://static.dafiti.cl/p/jarman-3676-7379591-1-product.jpg",
+      "id": 1
+    },
+    {
+      "title": "Polar Mavek Reciclado Gris Kivul",
+      "description": "Este Es Un Clasico Polar Con Diseños Disruptivos Que Esta Con Nosotros Todo El Año, Sin Importar La Estacion Podras Estar Abrigado.",
+      "code": "2",
+      "status": true,
+      "stock": 5,
+      "category": "polar",
+      "price": "45000",
+      "thumbnails":"https://static.dafiti.cl/p/kivul-7140-3158002-1-product.jpg",
+      "id": 2
+    },
+    {
+      "title": "Polera Champion Classic",
+      "description": "Estampado con la firma Champion en el frente",
+      "code": "3",
+      "status": true,
+      "stock": 5,
+      "category": "polera",
+      "price": "18500",
+      "thumbnails":"https://static.dafiti.cl/p/champion-7843-4876951-1-zoom.jpg",
+      "id": 3
+    },
+    {
+      "title": "Jeans Ellus Slim",
+      "description": "Jeans Ellus Slim Mid Blue Five Pockets Basic Azul - Calce Slim Fit",
+      "code": "4",
+      "status": true,
+      "stock": 5,
+      "category": "jeans",
+      "price": "45000",
+      "description": "Jeans Ellus Slim Mid Blue Five Pockets Basic Azul - Calce Slim Fit",
+      "thumbnails":"https://static.dafiti.cl/p/ellus-8778-5660241-1-zoom.jpg",
+      "id": 4
+    },
+    {
+      "title": "adidas sportswear",
+      "description": "Zapatilla Deportiva NEBZED Negro adidas performance",
+      "code": "2",
+      "status": true,
+      "stock": 5,
+      "category": "zapatilla",
+      "price": "14500",
+      "thumbnails":"https://static.dafiti.cl/p/adidas-sportswear-1025-9240441-1-zoom.jpg",
+      "id": 5
+    }
+  
+  ]
