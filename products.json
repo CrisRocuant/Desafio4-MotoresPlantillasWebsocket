@@ -1,15 +1,60 @@
+
 [
     {
-    "id":1,
-    "title":"Microondas ATMA",
-    "description":"Incluye panel led, timer,memoria interna",
-     "code":"abc322",
-     "price":54000,
-     "stock":85,
-     "category":"Electro",
-     "thumbnails":"Prod sin imagen",
-     "status":true
+      "title": "Botín Camel Jarman",
+      "description": "Plantilla a base de espuma que proporciona mayor comodidad y amortiguación, convirtiéndolo en un calzado moldeable dependiendo de la activad que se esté llevando a cabo",
+      "code": "1",
+      "status": true,
+      "stock": 4,
+      "category": "zapatos",
+      "price": "28000",
+      "thumbnails": "https://static.dafiti.cl/p/jarman-3676-7379591-1-product.jpg",
+      "id": 1
     },
-
-     {"id":2,
-     "title":"Lavarropas Drean","description":"Ultima generacion, motor inverter","code":"def784","price":85000,"stock":34,"category":"Electro","thumbnails":"Prod sin imagen","status":true},{"id":3,"title":"Secarropas Samsung","description":"Sistema automatizado, proteccion electrica","code":"ghi220","price":110000,"stock":21,"category":"Electro","thumbnails":"Prod sin imagen","status":true},{"id":4,"title":"Celular Motorola E3","description":"Dispositivo movil ultima generacion 4K","code":"zzz220","price":32500,"stock":241,"category":"Electro","thumbnails":"Prod sin imagen","status":true},{"id":5,"title":"PlayStation 5","description":"Consola UltraSlim 1TB","code":"pok210","price":240000,"stock":53,"category":"Electro","thumbnails":"Prod sin imagen","status":true},{"id":6,"title":"Teclado Redragon","description":"Mecanico Funcional","code":"poi777","price":"9800","stock":"210","category":"Computacion","status":true},{"id":7,"title":"Televisor Sony","description":"Smart 65 in","code":"kju920","price":"145000","stock":"59","category":"Electro","status":true},{"id":8,"title":"Cocina Grundig","description":"Panel electrico","code":"iou741","price":"126000","stock":"59","category":"hogar","status":true},{"id":9,"title":"Moladora Makita","description":"Diseño ultraseguro ISO","code":"xwl719","price":"42000","stock":"130","category":"Electro","status":true}]
+    {
+      "title": "Polar Mavek Reciclado Gris Kivul",
+      "description": "Este Es Un Clasico Polar Con Diseños Disruptivos Que Esta Con Nosotros Todo El Año, Sin Importar La Estacion Podras Estar Abrigado.",
+      "code": "2",
+      "status": true,
+      "stock": 5,
+      "category": "polar",
+      "price": "45000",
+      "thumbnails":"https://static.dafiti.cl/p/kivul-7140-3158002-1-product.jpg",
+      "id": 2
+    },
+    {
+      "title": "Polera Champion Classic",
+      "description": "Estampado con la firma Champion en el frente",
+      "code": "3",
+      "status": true,
+      "stock": 5,
+      "category": "polera",
+      "price": "18500",
+      "thumbnails":"https://static.dafiti.cl/p/champion-7843-4876951-1-zoom.jpg",
+      "id": 3
+    },
+    {
+      "title": "Jeans Ellus Slim",
+      "description": "Jeans Ellus Slim Mid Blue Five Pockets Basic Azul - Calce Slim Fit",
+      "code": "4",
+      "status": true,
+      "stock": 5,
+      "category": "jeans",
+      "price": "45000",
+      "description": "Jeans Ellus Slim Mid Blue Five Pockets Basic Azul - Calce Slim Fit",
+      "thumbnails":"https://static.dafiti.cl/p/ellus-8778-5660241-1-zoom.jpg",
+      "id": 4
+    },
+    {
+      "title": "adidas sportswear",
+      "description": "Zapatilla Deportiva NEBZED Negro adidas performance",
+      "code": "2",
+      "status": true,
+      "stock": 5,
+      "category": "zapatilla",
+      "price": "14500",
+      "thumbnails":"https://static.dafiti.cl/p/adidas-sportswear-1025-9240441-1-zoom.jpg",
+      "id": 5
+    }
+  
+  ]
